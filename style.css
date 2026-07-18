@@ -20,8 +20,10 @@ body {
   background-color: var(--bg-dark);
   color: var(--text-primary);
   line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  min-height: auto;
 }
-
 /* Header & Navbar */
 header {
   position: fixed;
@@ -428,10 +430,19 @@ section {
   color: #f59e0b;
 }
 
-/* Contact Section */
+/* Contact Section Styling Fixes */
 .contact-section {
   text-align: center;
-  padding-bottom: 8rem;
+  padding: 6rem 2rem 2rem 2rem; /* Reduced bottom padding from 8rem to 2rem */
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .contact-container > p {
@@ -443,8 +454,10 @@ section {
   margin-bottom: 2rem;
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 2.5rem;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .contact-details p {
@@ -457,16 +470,40 @@ section {
   margin-right: 0.5rem;
 }
 
-/* Footer */
+/* Centers the icons container */
+.contact-socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 1rem auto 1.5rem auto; /* Reduced bottom margin from 3rem to 1.5rem */
+  width: 100%;
+}
+
+.contact-socials a {
+  color: var(--text-muted);
+  font-size: 2rem;
+  transition:
+    color 0.3s ease,
+    transform 0.3s ease;
+}
+
+.contact-socials a:hover {
+  color: var(--accent);
+  transform: translateY(-3px);
+}
+
+/* Absolute Footer Grounding */
 footer {
   text-align: center;
-  padding: 2rem;
+  padding: 2rem 2rem; /* Reduced vertical padding */
   border-top: 1px solid var(--border);
   background-color: var(--bg-dark);
   color: var(--text-muted);
   font-size: 0.9rem;
+  margin-top: 0; /* Removed margin-top: auto */
+  width: 100%;
 }
-
 /* Responsive adjustments */
 @media (max-width: 900px) {
   .skills-grid,
