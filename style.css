@@ -231,14 +231,8 @@ section {
 .cert-list li {
   font-size: 0.95rem;
   position: relative;
-  padding-left: 1.2rem;
+  padding-left: 0%;
   color: var(--text-muted);
-}
-.cert-list li::before {
-  content: "▹";
-  position: absolute;
-  left: 0;
-  color: var(--accent);
 }
 .skill-group-title {
   font-size: 1rem;
