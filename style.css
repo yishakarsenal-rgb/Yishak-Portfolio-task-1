@@ -8,10 +8,10 @@
 :root {
   --bg-dark: #0f0f11;
   --bg-card: #16161a;
-  --accent: #00adb5;
+  --accent: #1e9417;
   --text-primary: #eeeeee;
   --text-muted: #9f9fa9;
-  --border: #242427;
+  --border: #09090f;
 }
 body {
   background-color: var(--bg-dark);
