@@ -26,7 +26,8 @@ Tech Stack and Tools
 -Deployment and CI/CD: GitHub, Vercel
 
 Repository Structure
-├── index.html -Main HTML layout and page structure
-├── style.css -Custom styling, dark/light theme variables and responsive queries
-├── app.js -Interactivity, theme switcher, and UI handlers
-└── README.md -Project documentation
+
+-index.html -Main HTML layout and page structure
+-style.css -Custom styling, dark/light theme variables and responsive queries
+-app.js -Interactivity, theme switcher, and UI handlers
+-README.md -Project documentation
