@@ -1,4 +1,5 @@
 Personal Portfolio Website — Task 1
+
 -An interactive, modern, and fully responsive personal developer portfolio showcasing full-stack web development projects, computer science credentials, and software engineering skills.
 -Built as part of Saiket Systems Internship Program.
 
@@ -17,8 +18,11 @@ Responsive Layout: Optimized for seamless performance across mobile devices, tab
 Contact and Social Integrations: Direct links to LinkedIn, GitHub, and email contact forms.
 
 Tech Stack and Tools
+
 -Frontend: HTML5, CSS3, JavaScript
+
 -Styling: CSS Custom Variables, Modern Flexbox and Grid, CSS Pseudo-elements
+
 -Deployment and CI/CD: GitHub, Vercel
 
 Repository Structure
