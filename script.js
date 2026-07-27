@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
   let charIndex = 0;
   let isDeleting = false;
   const typingTarget = document.getElementById("typing-text");
-
   function typeEffect() {
     const currentWord = words[wordIndex];
 
