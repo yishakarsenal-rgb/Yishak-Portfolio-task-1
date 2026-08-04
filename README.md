@@ -1,10 +1,9 @@
-Personal Portfolio Website — Task 1
+Personal Portfolio Website — Saiket Task 1
 
 -An interactive, modern, and fully responsive personal developer portfolio showcasing full-stack web development projects, computer science credentials, and software engineering skills.
 
 -Built as part of Saiket Systems Internship Program.
 
-Live Demo and Links
 
 -Live Website: https://yishak-portfolio-task-1.vercel.app/
 
