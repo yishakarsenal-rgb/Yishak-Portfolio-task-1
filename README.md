@@ -28,9 +28,3 @@ Tech Stack and Tools
 -Styling: CSS Custom Variables, Modern Flexbox and Grid, CSS Pseudo-elements
 
 -Deployment and CI/CD: GitHub, Vercel
-
-Repository Structure
-
--index.html -Main HTML layout and page structure
-
--style.css -Custom styling, dark/light theme variables and responsive queries
