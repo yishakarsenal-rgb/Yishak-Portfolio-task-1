@@ -14,6 +14,7 @@ Features and Key Highlights
 -Pure Dark and Light Mode System: Smooth CSS variable-driven theme
 
 -Interactive Project Showcase: Dedicated sections for deployed web applications, full-stack projects, and course achievements.
+
 -Dynamic Skill and Certification Display: Clean presentation of technical stack, academic background, and industry credentials.
 
 -Responsive Layout: Optimized for seamless performance across mobile devices, tablets, and desktop displays.
