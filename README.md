@@ -17,6 +17,7 @@ Features and Key Highlights
 -Dynamic Skill and Certification Display: Clean presentation of technical stack, academic background, and industry credentials.
 
 -Responsive Layout: Optimized for seamless performance across mobile devices, tablets, and desktop displays.
+
 -Contact and Social Integrations: Direct links to LinkedIn, GitHub, and email contact forms.
 
 Tech Stack and Tools
