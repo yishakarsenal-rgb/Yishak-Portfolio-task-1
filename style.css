@@ -475,7 +475,7 @@ footer {
   opacity: 1;
   transform: translateY(0);
 }
-/* light mode */
+
 body.light-mode {
   --bg-dark: #f4f4f7;
   --bg-card: #ffffff;
