@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const toggleIcon = themeToggleBtn.querySelector("i");
   themeToggleBtn.addEventListener("click", () => {
     document.body.classList.toggle("light-mode");
-    // light and dark mode
+
     if (document.body.classList.contains("light-mode")) {
       toggleIcon.classList.remove("fa-sun");
       toggleIcon.classList.add("fa-moon");
