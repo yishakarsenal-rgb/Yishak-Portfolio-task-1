@@ -21,7 +21,6 @@ body {
   flex-direction: column;
   min-height: auto;
 }
-/* header and navbar */
 header {
   position: fixed;
   top: 0;
