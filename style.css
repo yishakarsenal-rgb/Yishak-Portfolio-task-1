@@ -257,7 +257,7 @@ section {
   font-size: 0.85rem;
   font-weight: 500;
 }
-/* deployed projects section */
+
 .deployed-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
