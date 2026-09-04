@@ -75,7 +75,6 @@ nav ul li a:hover {
 #theme-toggle:hover {
   color: var(--accent);
 }
-/* hero section */
 .hero {
   min-height: 100vh;
   display: flex;
