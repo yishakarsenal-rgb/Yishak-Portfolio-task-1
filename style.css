@@ -463,7 +463,7 @@ footer {
     opacity: 0;
   }
 }
-/* scroll fade in */
+
 .hide-initial {
   opacity: 0;
   transform: translateY(30px);
