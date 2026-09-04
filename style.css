@@ -149,7 +149,6 @@ nav ul li a:hover {
   border-color: var(--accent);
   color: var(--accent);
 }
-/* layout section */
 section {
   padding: 6rem 2rem 4rem 2rem;
   max-width: 1100px;
